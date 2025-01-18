@@ -38,6 +38,8 @@ cd evaluation/fishfarm
 pip install -e .
 ```
 
+Note: supported only on Linux OS as of now
+
 ## Usage
 We provide example scripts for both training and evaluation.  
 
