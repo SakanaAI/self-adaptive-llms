@@ -57,7 +57,7 @@ Classification experts can be loaded by specifying the CLS_EXPERT_PATH in the sc
 bash scripts/eval_prompt_based.sh
 ```
 
-#### Few-shots evaluation
+#### Few-shot evaluation
 ```bash
 bash scripts/eval_few_shot.sh
 ```
